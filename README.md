@@ -27,7 +27,7 @@ This project was created to practice CSS layout techniques and build a reusable 
 
 ## 📂 Usage
 Open the `index.html` file in any browser to view the product card.
-
+⚠️ Note: This project is not yet responsive (mobile-friendly).
 ---
 
 💡 *A simple UI component built as part of my frontend learning journey.*
